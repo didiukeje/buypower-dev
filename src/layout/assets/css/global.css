@@ -136,7 +136,9 @@ section {
   line-height: 1.6vw;
   text-align: center;
   /* padding: 0 22vw 30px 22vw; */
-  letter-spacing: 0.01em;
+  letter-spacing: 0.005em;
+  width: 639px;
+  margin: auto;
 }
  
 @media screen and (max-width: 800px) {
@@ -1040,9 +1042,15 @@ section {
   /* padding-left: 26vw;
   padding-right: 26vw; */
 
-  letter-spacing: 0.02em;
+  letter-spacing: 0.005em;
+  width: 670px;
+  height: 72px;
+  font-size: 16px;
 }
 
+.carousel-inner {
+  padding-top: 40px;
+}
 
 /*--------------------------------------------------------------
 # Cta
