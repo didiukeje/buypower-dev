@@ -1,14 +1,14 @@
 import React from "react";
 import "./homepage.css";
-import Disco from "./Disco.js"
-import GoLive from "./GoLive.js";
-import Testimonials from "./Testimonials.js";
-import UseAPI from "./UseAPI.js";
-import Services from "./Services.js";
-import Support from "./Support.js";
-import Hero from "./Hero.js";
+import Disco from "../layout/components/Disco.js"
+import GoLive from "../layout/components/GoLive.js";
+import Testimonials from "../layout/components/Testimonials.js";
+import UseAPI from "../layout/components/UseAPI.js";
+import Services from "../layout/components/Services.js";
+import Support from "../layout/components/Support.js";
+import Hero from "../layout/components/Hero.js";
 import Footer from "../layout/components/Footer.js"
-import Navbar from "./Navbar.js"
+import Navbar from "../layout/components/Navbar.js"
 
 
 class Home extends React.Component {
