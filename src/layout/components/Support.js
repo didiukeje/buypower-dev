@@ -7,8 +7,8 @@ const Support = () => {
               <div className="section-title">
                 <h2>24Hrs Support</h2>
                 <h4>
-                  Our team is ready to help you with any issue you have 24/7.
-                  Reach us with any enquiries you have by sending an email to 
+                  Our team is ready to help you with any issue you have 24/7. <br />
+                  Reach us with any enquiries you have by sending an email <br/> to 
                   <a href="mailto:partnerships@buypower.ng">partnerships@buypower.ng</a>
                 </h4>
               </div>

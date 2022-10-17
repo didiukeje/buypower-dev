@@ -7,8 +7,8 @@ const Testimonials = () => {
               <div className="section-title">
                 <h2>Testimonials</h2>
                 <h4>
-                  Thousands of businesses trust BuyPower to help them make quick and effortless electricity payments and this
-                  is what some of our customers have to say.
+                  Thousands of businesses trust BuyPower to help them <br /> make quick and effortless electricity payments and this
+                  is <br /> what some of our customers have to say.
                 </h4>
               </div>
 
