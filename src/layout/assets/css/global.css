@@ -187,7 +187,7 @@ section {
   padding: 0px;
   /* gap: 31.35vw; */
 
-  position: absolute;
+  /* position: absolute; */
   left: 200px;
   right: 200px;
   top: 19px;
@@ -216,11 +216,12 @@ section {
 #header .logo img {
   position: absolute;
   width: 268.69px;
-  height: 81.57px;
+  /* height: 81.57px; */
   background: url(../img/buypower-logo.png) no-repeat;
   background-size: contain;
   flex: none;
   flex-grow: 0;
+  padding-bottom: 20px;
 }
 
 @media (max-width: 800px) {
@@ -248,7 +249,7 @@ section {
 */
 .navbar {
   padding: 0;
-
+  padding-top: 30px;
 }
 
 .navbar ul {
@@ -388,7 +389,9 @@ section {
   left: 100%;
   visibility: visible;
 }
-
+#navbar {
+  display: flex;
+}
 @media (max-width: 1366px) {
   /* .navbar .dropdown .dropdown ul {
     left: -90%;
