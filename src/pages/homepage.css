@@ -44,6 +44,8 @@ section #hero {
     width: 48px;
     height: 48px;
     /* color: #ffffff; */
+    margin-right: 20px;
+    margin-top: 9px;
 }
 
 .number span {

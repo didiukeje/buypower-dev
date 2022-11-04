@@ -9,7 +9,7 @@ const Services = () => {
                 <h4 className="px-2">We offer maximum value to our customers, wouldn't you want to join?</h4>
               </div>
 
-              <div className="row pt-3 justify-content-between">
+              <div className="row pt-3 justify-content-evenly">
                 <div className="card border-light why-card col-lg-4 col-md-4 d-flex align-items-stretch" data-aos="zoom-in"
                   data-aos-delay="100">
                   <div className="card-body">
