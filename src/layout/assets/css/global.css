@@ -205,7 +205,7 @@ section {
   font-weight: 300;
   letter-spacing: 0.5px;
   font-family: 'Open Sans', sans-serif;
-
+  margin-left: 10%;
 }
 
 #header .logo a {
@@ -391,6 +391,7 @@ section {
 }
 #navbar {
   display: flex;
+  margin-right: 6%;
 }
 @media (max-width: 1366px) {
   /* .navbar .dropdown .dropdown ul {
@@ -688,7 +689,7 @@ section {
     height: 311px;
   }
   #hero .text-title {
-   font-size: 28px;
+   font-size: 24px;
   }
   #header-img1 {
     width: 183px;
@@ -712,7 +713,10 @@ section {
 @media screen and (max-width: 412px) {
   #green-yellow {
     left: 15%;
-}
+ }
+  .text {
+    font-size: 14px;
+  }
 }
 
 #right-header-content {
